@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.env
+*.log
+pnpm-lock.yaml
+package-lock.json
+*.backup
+fix-*.sh
+diagnose-*.sh
+setup-*.sh
+*.txt
